@@ -1,5 +1,5 @@
-site_name: My Docs
-site_url: https://sitename.example
+site_name: Figma
+site_url: https://www.figma.com/
 
 theme:
   name: material
@@ -9,24 +9,32 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
-    - navigation.footer
+      - navigation.tabs
+      - navigation.indexes
+      - toc.integrate 
 
   palette:
     # Dark Mode
-    - scheme: slate
+    - scheme: default
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: '#18A0FB'
+      accent: '#FF7262'
 
     # Light Mode
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: '#18A0FB'
+      accent: '#FF7262'
+
+nav:
+  - Home: index.md
+  - Project Structure: project-structure.md
+  - Troubleshooting: troubleshooting.md
+  - Glossory: glossory.md
 
 markdown_extensions:
   - attr_list
