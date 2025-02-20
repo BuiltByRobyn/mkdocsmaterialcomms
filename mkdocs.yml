@@ -9,9 +9,9 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
-      - navigation.tabs
-      - navigation.indexes
-      - toc.integrate 
+    - navigation.tabs
+    - navigation.indexes
+    - toc.integrate
 
   palette:
     # Dark Mode
@@ -19,20 +19,23 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: '#18A0FB'
-      accent: '#FF7262'
+      primary: "#18A0FB"
+      accent: "#FF7262"
 
     # Light Mode
     - scheme: slate
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: '#18A0FB'
-      accent: '#FF7262'
+      primary: "#18A0FB"
+      accent: "#FF7262"
 
 nav:
   - Home: index.md
-  - Project Structure: project-structure.md
+  - Good Design Practices: good-design-practices.md
+  - Creating a Figma Design: create-file.md
+   - What is a protoype?: what-is-prototype.md
+  - Presenting and Sharing Prototypes: presenting-protoypes.md
   - Troubleshooting: troubleshooting.md
   - Glossory: glossory.md
 
