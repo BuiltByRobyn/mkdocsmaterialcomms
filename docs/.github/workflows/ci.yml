@@ -10,7 +10,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository with LFS Support
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]

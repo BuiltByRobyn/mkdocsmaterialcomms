@@ -1,8 +1,0 @@
-Issues for Sam
-
-Index
-Admonitions wouldn't display box around edge. Used CSS instead?
-
-Create file 
-Types of file bullet points show differently on preview from local?
-
