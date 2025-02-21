@@ -40,20 +40,20 @@ To maintain clarity and consistency throughout this guide, the following convent
 - _Italics_ indicate variables - **[see glossary](#)** for more information.
 - **Bold** highlights call-to-action elements, such as buttons to click or commands to type.
 - [Arrows]-> show the exact steps to follow in menus. When you see an arrow, it means "click this first, then this next."
-  For example, if you see File -> New, it means you should first click File, then select New from the menu.
+  For example, if you see **File** -> **New**, it means you should first click File, then select New from the menu.
 
 ## Notes and Warning Messages
 
 This documentation includes special message blocks to alert readers to important information:
 
 <div style="border: 2px solid #ff0000; padding: 10px; margin: 10px 0; border-radius: 4px;">
-❌ <strong>Error:</strong> Provides examples of common errors that occur.
+❌ Error: Provides examples of common errors that occur.
 </div>
 
 <div style="border: 2px solid rgb(255, 236, 28); padding: 10px; margin: 10px 0; border-radius: 4px;">
-⚠️ <strong>Info:</strong> Provides additional tips or relevant insights.
+⚠️ Info: Provides additional tips or relevant insights.
 </div>
 
 <div style="border: 2px solid #00cc00; padding: 10px; margin: 10px 0; border-radius: 4px;">
-✅ <strong>Success:</strong> Identifies the correct outcome that users should expect to see upon completion.
+✅ Success: Identifies the correct outcome that users should expect to see upon completion.
 </div>

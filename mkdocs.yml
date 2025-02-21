@@ -32,10 +32,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Good Design Practices: good-design-practices.md
   - Creating a Figma Design: create-file.md
-   - What is a protoype?: what-is-prototype.md
-  - Presenting and Sharing Prototypes: presenting-protoypes.md
+  - Good Design Practices: good-design-practices.md
+  - What is a prototype?: what-is-prototype.md
+  - Presenting and Sharing Prototypes: presenting-prototypes.md
   - Troubleshooting: troubleshooting.md
   - Glossory: glossory.md
 
