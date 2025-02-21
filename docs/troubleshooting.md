@@ -65,7 +65,7 @@ If interactions are unresponsive or not functioning as expected, check the follo
 ![Grid Example](images/connection.png)
 
 Click on each connection and verify the interaction settings (e.g., _On Click,_ _While Hovering,_ etc.).
-![Connection Example](images/create_connection.gif)
+![Connection Example](https://drive.google.com/uc?export=view&id=1-SLlCpNo9zWRL2lHyYdUvF8x9jdYl8PH)
 
 If a frame is missing a connection, re-add it manually by **dragging the blue arrow to the target frame**.
 
