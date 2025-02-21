@@ -3,20 +3,21 @@
 ## Publishing the Prototype
 
 1. **Click the Share button** in the top-right corner of the Figma interface.
+
    ![Share Example](images/shareexample.png)
+
 2. **Set the sharing permissions** by choosing one of these options:
 
-  <div style="border: 2px solid rgb(255, 236, 28); padding: 10px; margin: 10px 0; border-radius: 4px;">
-  ⚠️ <strong>Sharing Options Explained:</strong>
+### Sharing Options Explained:
 
-**Anyone with the link:**
+#### Anyone with the link:
 
 - Anyone who has the URL can access the prototype
 - No sign-in required
 - Best for: Public projects, client presentations, wide distribution
 - Privacy consideration: Less secure, cannot track who views the prototype
 
-**Specific individuals or teams:**
+#### Specific individuals or teams:
 
 - Only invited people can access
 - Requires Figma account sign-in
@@ -26,9 +27,9 @@
   - Can set view-only or edit permissions
   - Can revoke access at any time
   - Can disable download/copy options
-  </div>
 
 3. **Click Copy Link** to obtain the URL for sharing your prototype.
+
    ![Copy Link Example](images/copy_link.gif)
 
 ## Presenting the Prototype
@@ -38,13 +39,11 @@
 
 ![Present Prototype Example](images/presenter_view.png)
 
-<div style="border: 2px solid rgb(255, 236, 28); padding: 10px; margin: 10px 0; border-radius: 4px;">
-⚠️ <strong>Presentation Options Explained:</strong>
+#### Presentation Options Explained:
 
 - Preview Button: Displays the prototype directly within the editor, allowing you to test functionality and make adjustments without switching tabs. Ideal for quick iterations during development.
 
 - Present Button: Opens the prototype in a separate tab for full-screen viewing. Useful for sharing with others, testing on different devices, or showcasing the design in a presentation setting.
-  </div>
 
 3. Navigate through frames and interactions to demonstrate the flow.
 
@@ -52,8 +51,8 @@
 
 1. Select a **Device and Model**.
 2. Preview your prototype.
-3. C: Select **Background color**.
-4. D: Set the prototype's **Starting Frame**.
+3. Select **Background color**.
+4. Set the prototype's **Starting Frame**.
 
 <div style="border: 2px solid rgb(255, 236, 28); padding: 10px; margin: 10px 0; border-radius: 4px;">
 ⚠️ <strong>Tip:</strong> For an even more efficient workflow, you can quickly toggle between the Design and Prototype tabs using the keyboard shortcut <strong>Shift + E</strong>.

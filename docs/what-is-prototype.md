@@ -1,4 +1,6 @@
-## What is a Protoype?
+# What is a Protoype?
+
+## Why use Protoypes?
 
 Figma’s prototyping features allow you to create interactive flows that explore how a user may interact with your designs.
 
@@ -12,7 +14,7 @@ Prototypes are a fantastic way to:
 
 ---
 
-### What is a User Flow?
+## What is a User Flow?
 
 With prototyping in Figma, you can create multiple user flows for your prototype in one page to preview a user's full journey and experience through your designs. Imagine you're designing an app or a website, and you want to show how a user moves from one screen to another. A Figma flow creates a map of the users journey, and demonstrates how the different screens (or frames) are connected. When you click a button, a link, or swipe, it takes you to the next step in the journey.
 
@@ -21,7 +23,7 @@ For example:
 
 Each of these steps is part of a flow, showing how users navigate through your app or website. It helps designers test ideas before writing any code, making sure everything works smoothly!
 
-### Flow Starting Points
+## Flow Starting Points
 
 Figma creates a flow starting point when you add your first connection between two frames. There are a few other ways to add a flow starting point to your prototype:
 
@@ -41,7 +43,7 @@ Frames nested within a top-level starting frame can have connections that naviga
 
 ---
 
-### Create Connections
+## Create Connections
 
 1. Select the hotspot for the connection.
 2. Click **+** to create the connection.
@@ -60,7 +62,7 @@ To do so:
 
 ---
 
-### Create Interactions and Animations
+## Create Interactions and Animations
 
 1. Open the **Prototype** tab in the right sidebar.
 2. Add interactions.
@@ -70,7 +72,7 @@ To do so:
 
 ## ![Grid Example](<images/Create%20interactions%20and%20animations%20(3)%201%20(1).png>)
 
-### Adjust Prototype Settings
+## Adjust Prototype Settings
 
 1. Select a **Device and Model**.
 2. Preview your prototype.
@@ -79,7 +81,7 @@ To do so:
 
 ## ![Grid Example](<images/Prototype%20tab%20of%20right%20sidebar%20with%20device,%20preview,%20background,%20and%20flow%20settings%20(1).png>)
 
-### Publishing the Prototype
+## Publishing the Prototype
 
 1. **Click the Share button** in the top-right corner of the Figma interface.
 2. **Set the sharing permissions** to either **Anyone with the link** or specify particular individuals or teams.
@@ -87,10 +89,10 @@ To do so:
 
 ---
 
-### Presenting the Prototype
+## Presenting the Prototype
 
 1. **Open the prototype link** in your browser by pasting the copied link.
 2. **Enter Presentation Mode** by clicking on the full-screen icon, which will display your design in a distraction-free environment.
 3. Navigate through frames and interactions to demonstrate the flow.
 
-Read more about presenting protoypes in **[presenting protoypes.](#)**
+Read more about presenting protoypes in **[presenting protoypes.](presenting-prototypes.md)**

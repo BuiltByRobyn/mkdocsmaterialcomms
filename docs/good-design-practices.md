@@ -1,29 +1,10 @@
 # Good Design Practice
 
-Using grids in Figma helps maintain consistency and alignment in your designs. Here's how to implement and use grids effectively:
-
-## Adding a Grid
-
-1. **Select the Frame**:
-
-   - Click on the frame or canvas where you want to add a grid.
-
-2. **Enable Grid**:
-
-   - Go to the **Design** tab in the right sidebar.
-   - Under the **Layout Grid** section, click the **+** button to add a grid.
-
-3. **Customize the Grid**:
-   - Choose between **Grid**, **Columns**, or **Rows**.
-   - Adjust the grid size, color, and opacity to suit your design needs.
-
-![Grid Example](images/grid%20layout.png)
-
 ## Types of Layout Grids
 
 Figma supports three types of layout grids:
 
-### Grid
+1. #### Grid
 
 - A uniform grid with equally spaced horizontal and vertical lines.
 - **Use Case**: Ideal for aligning elements in a structured manner.
@@ -35,7 +16,7 @@ Figma supports three types of layout grids:
 
 ![Grid Example](images/grid_example.png)
 
-### Columns
+2. #### Columns
 
 - A vertical grid system with customizable column widths and gutters.
 - **Use Case**: Perfect for creating responsive layouts for web or mobile designs.
@@ -46,7 +27,7 @@ Figma supports three types of layout grids:
 
 ![Columns Example](images/column_example.png)
 
-### Rows
+3. #### Rows
 
 - A horizontal grid system with customizable row heights and gutters.
 - **Use Case**: Useful for aligning content vertically, such as in tables or lists.
@@ -60,7 +41,7 @@ Figma supports three types of layout grids:
 
 ---
 
-### Best Practices for Using Grids
+## Best Practices for Using Grids
 
 - **Consistency**: Use the same grid system across all frames to maintain uniformity.
 - **Spacing**: Set grid spacing to multiples of 8 (e.g., 8, 16, 24) for a clean and scalable design.
@@ -72,22 +53,22 @@ Figma supports three types of layout grids:
 
 ---
 
-### Example: Creating a Responsive Grid for Web Design
+### Creating a Responsive Grid for Web Design
 
-1. **Select the Frame**:
+1. #### Select the Frame:
 
    - Choose the frame representing your web page.
 
-2. **Add a Column Grid**:
+2. #### Add a Column Grid:
 
    - Set the **Count** to 12 (a common standard for web design).
    - Define the **Gutter** as 20px and the **Margin** as 24px.
 
-3. **Add a Row Grid**:
+3. #### Add a Row Grid:
 
    - Set the **Count** to 6 and the **Gutter** to 16px.
 
-4. **Align Elements**:
+4. #### Align Elements:
    - Use the grid to align buttons, text, and images consistently across the design.
 
 ---
@@ -98,4 +79,4 @@ Figma supports three types of layout grids:
 - Use descriptive naming for layers and frames to improve accessibility.
 - Support keyboard navigation and consider screen reader compatibility.
 
-You now know the theory behind a great design, so lets learn about **[Figma Prototypes!](#)**
+You now know the theory behind a great design, so lets learn about **[Figma Prototypes!](what-is-prototype.md)**

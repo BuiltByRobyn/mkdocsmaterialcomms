@@ -14,24 +14,26 @@ Once you have opened your account with Figma, you can select **Create New** in t
 
 You will then be asked to select from one of three options:
 
-1. Design File
+### Design File
 
-   - Purpose: A traditional Figma design file used for UI/UX design, wireframing, and prototyping.
-   - Best For: Creating user interfaces, websites, apps, or any visual design work.
-   - Features: Supports layers, vector graphics, components, auto layout, and prototyping.
+- Purpose: A traditional Figma design file used for UI/UX design, wireframing, and prototyping.
+- Best For: Creating user interfaces, websites, apps, or any visual design work.
+- Features: Supports layers, vector graphics, components, auto layout, and prototyping.
 
-2. FigJam Board
+#### FigJam Board
 
-   - Purpose: A collaborative whiteboard for brainstorming, planning, and team discussions.
-   - Best For: Mind maps, flowcharts, wireframing ideas, project planning, and team workshops.
-   - Features: Sticky notes, freehand drawing, comments, voting, and real-time collaboration.
+- Purpose: A collaborative whiteboard for brainstorming, planning, and team discussions.
+- Best For: Mind maps, flowcharts, wireframing ideas, project planning, and team workshops.
+- Features: Sticky notes, freehand drawing, comments, voting, and real-time collaboration.
 
-3. Slide Deck (Beta)
-   - Purpose: A presentation builder within Figma that helps create slide-based content.
-   - Best For: Pitch decks, team presentations, design showcases, or storytelling with visuals.
-   - Features: Similar to PowerPoint or Google Slides but within Figma, allowing easy integration with design elements.
+#### Slide Deck (Beta)
 
-Bonus: Import Option
+- Purpose: A presentation builder within Figma that helps create slide-based content.
+- Best For: Pitch decks, team presentations, design showcases, or storytelling with visuals.
+- Features: Similar to PowerPoint or Google Slides but within Figma, allowing easy integration with design elements.
+
+#### Bonus: Import Option
+
 Allows you to import existing files (like Sketch files, images, or PDFs) into Figma.
 
 This documentation will primarily cover the Design File option for creating UI/UX flows and interactive prototypes.
@@ -64,4 +66,23 @@ When creating a frame, you can either manually draw one using the Frame tool in 
 ⚠️ <strong>Tip:</strong> Use Shift + Drag to maintain proportions when creating frames.
 </div>
 
-Now that you know how to create your Figma file, take a moment to **[explore good design practices](#)** before starting your project.
+Using grids in Figma helps maintain consistency and alignment in your designs. Here's how to implement and use grids effectively:
+
+## Adding a Grid
+
+1. #### Select the Frame:
+
+   - Click on the frame or canvas where you want to add a grid.
+
+2. #### Enable Grid:
+
+   - Go to the **Design** tab in the right sidebar.
+   - Under the **Layout Grid** section, click the **+** button to add a grid.
+
+3. #### Customize the Grid:
+   - Choose between **Grid**, **Columns**, or **Rows**.
+   - Adjust the grid size, color, and opacity to suit your design needs.
+
+![Grid Example](images/grid%20layout.png)
+
+Now that you know how to create your Figma file, take a moment to **[explore good design practices](good-design-practices.md)** before starting your project.

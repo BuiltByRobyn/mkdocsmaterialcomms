@@ -37,7 +37,7 @@ nav:
   - What is a prototype?: what-is-prototype.md
   - Presenting and Sharing Prototypes: presenting-prototypes.md
   - Troubleshooting: troubleshooting.md
-  - Glossory: glossory.md
+  - Glossary: glossary.md
 
 markdown_extensions:
   - attr_list

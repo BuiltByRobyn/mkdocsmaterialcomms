@@ -37,7 +37,7 @@ Before using this guide, ensure that you:
 
 To maintain clarity and consistency throughout this guide, the following conventions will be used:
 
-- _Italics_ indicate variables - **[see glossary](#)** for more information.
+- _Italics_ indicate variables - **[see glossary](glossary.md)** for more information.
 - **Bold** highlights call-to-action elements, such as buttons to click or commands to type.
 - [Arrows]-> show the exact steps to follow in menus. When you see an arrow, it means "click this first, then this next."
   For example, if you see **File** -> **New**, it means you should first click File, then select New from the menu.
