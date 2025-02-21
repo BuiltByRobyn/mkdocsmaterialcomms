@@ -4,7 +4,7 @@
 
 Figma supports three types of layout grids:
 
-1. #### Grid
+1. **Grid**
 
 - A uniform grid with equally spaced horizontal and vertical lines.
 - **Use Case**: Ideal for aligning elements in a structured manner.
@@ -16,7 +16,7 @@ Figma supports three types of layout grids:
 
 ![Grid Example](images/grid_example.png)
 
-2. #### Columns
+2. **Columns**
 
 - A vertical grid system with customizable column widths and gutters.
 - **Use Case**: Perfect for creating responsive layouts for web or mobile designs.
@@ -27,7 +27,7 @@ Figma supports three types of layout grids:
 
 ![Columns Example](images/column_example.png)
 
-3. #### Rows
+3. **Rows**
 
 - A horizontal grid system with customizable row heights and gutters.
 - **Use Case**: Useful for aligning content vertically, such as in tables or lists.
@@ -53,22 +53,22 @@ Figma supports three types of layout grids:
 
 ---
 
-### Creating a Responsive Grid for Web Design
+## Creating a Responsive Grid for Web Design
 
-1. #### Select the Frame:
+1. **Select the Frame:**
 
    - Choose the frame representing your web page.
 
-2. #### Add a Column Grid:
+2. **Add a Column Grid:**
 
    - Set the **Count** to 12 (a common standard for web design).
    - Define the **Gutter** as 20px and the **Margin** as 24px.
 
-3. #### Add a Row Grid:
+3. **Add a Row Grid:**
 
    - Set the **Count** to 6 and the **Gutter** to 16px.
 
-4. #### Align Elements:
+4. **Align Elements:**
    - Use the grid to align buttons, text, and images consistently across the design.
 
 ---

@@ -10,14 +10,14 @@
 
 ### Sharing Options Explained:
 
-#### Anyone with the link:
+1. **Anyone with the link:**
 
 - Anyone who has the URL can access the prototype
 - No sign-in required
 - Best for: Public projects, client presentations, wide distribution
 - Privacy consideration: Less secure, cannot track who views the prototype
 
-#### Specific individuals or teams:
+2. **Specific individuals or teams:**
 
 - Only invited people can access
 - Requires Figma account sign-in
@@ -39,7 +39,7 @@
 
 ![Present Prototype Example](images/presenter_view.png)
 
-#### Presentation Options Explained:
+### Presentation Options Explained:
 
 - Preview Button: Displays the prototype directly within the editor, allowing you to test functionality and make adjustments without switching tabs. Ideal for quick iterations during development.
 

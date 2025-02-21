@@ -14,25 +14,25 @@ Once you have opened your account with Figma, you can select **Create New** in t
 
 You will then be asked to select from one of three options:
 
-### Design File
+1. **Design File**
 
 - Purpose: A traditional Figma design file used for UI/UX design, wireframing, and prototyping.
 - Best For: Creating user interfaces, websites, apps, or any visual design work.
 - Features: Supports layers, vector graphics, components, auto layout, and prototyping.
 
-#### FigJam Board
+2. **FigJam Board**
 
 - Purpose: A collaborative whiteboard for brainstorming, planning, and team discussions.
 - Best For: Mind maps, flowcharts, wireframing ideas, project planning, and team workshops.
 - Features: Sticky notes, freehand drawing, comments, voting, and real-time collaboration.
 
-#### Slide Deck (Beta)
+3. **Slide Deck**
 
 - Purpose: A presentation builder within Figma that helps create slide-based content.
 - Best For: Pitch decks, team presentations, design showcases, or storytelling with visuals.
 - Features: Similar to PowerPoint or Google Slides but within Figma, allowing easy integration with design elements.
 
-#### Bonus: Import Option
+**Bonus: Import Option**
 
 Allows you to import existing files (like Sketch files, images, or PDFs) into Figma.
 
@@ -70,16 +70,16 @@ Using grids in Figma helps maintain consistency and alignment in your designs. H
 
 ## Adding a Grid
 
-1. #### Select the Frame:
+1. **Select the Frame:**
 
    - Click on the frame or canvas where you want to add a grid.
 
-2. #### Enable Grid:
+2. **Enable Grid:**
 
    - Go to the **Design** tab in the right sidebar.
    - Under the **Layout Grid** section, click the **+** button to add a grid.
 
-3. #### Customize the Grid:
+3. **Customize the Grid:**
    - Choose between **Grid**, **Columns**, or **Rows**.
    - Adjust the grid size, color, and opacity to suit your design needs.
 
