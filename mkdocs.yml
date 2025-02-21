@@ -12,6 +12,8 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - toc.integrate
+  static_templates:
+    - 404.html
 
   palette:
     # Dark Mode

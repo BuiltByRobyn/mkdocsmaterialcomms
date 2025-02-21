@@ -65,7 +65,11 @@ If interactions are unresponsive or not functioning as expected, check the follo
 ![Grid Example](images/connection.png)
 
 Click on each connection and verify the interaction settings (e.g., _On Click,_ _While Hovering,_ etc.).
-![Connection Example](https://imgur.com/a/6yhtgE1)
+<video width="600" autoplay loop muted>
+
+  <source src="images/create_connection.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 If a frame is missing a connection, re-add it manually by **dragging the blue arrow to the target frame**.
 

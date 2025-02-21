@@ -30,7 +30,7 @@
 
 3. **Click Copy Link** to obtain the URL for sharing your prototype.
 
-   ![Copy Link Example](images/copy_link.gif)
+   ![Copy Link Example](images/copy_link.mp4)
 
 ## Presenting the Prototype
 
