@@ -4,7 +4,7 @@
 
 Figma supports three types of layout grids:
 
-1. **Grid**
+### Grid
 
 - A uniform grid with equally spaced horizontal and vertical lines.
 - **Use Case**: Ideal for aligning elements in a structured manner.
@@ -16,7 +16,7 @@ Figma supports three types of layout grids:
 
 ![Grid Example](images/grid_example.png)
 
-2. **Columns**
+### Columns
 
 - A vertical grid system with customizable column widths and gutters.
 - **Use Case**: Perfect for creating responsive layouts for web or mobile designs.
@@ -27,7 +27,7 @@ Figma supports three types of layout grids:
 
 ![Columns Example](images/column_example.png)
 
-3. **Rows**
+### Rows
 
 - A horizontal grid system with customizable row heights and gutters.
 - **Use Case**: Useful for aligning content vertically, such as in tables or lists.
@@ -55,21 +55,22 @@ Figma supports three types of layout grids:
 
 ## Creating a Responsive Grid for Web Design
 
-1. **Select the Frame:**
+### 1. Select the Frame
+Choose the most appropriate frame to represent your web page, ensuring it aligns with the intended screen size and layout.
 
-   - Choose the frame representing your web page.
+### 2. Add a Column Grid
+Set the count to 12, which is a common standard for web design. This grid structure provides flexibility and ensures a balanced layout across different screen sizes.
 
-2. **Add a Column Grid:**
+### 3. Define the Borders
+The gutter, which is the spacing between columns, ensures proper separation of elements and prevents a cluttered appearance. A 20px gutter is commonly used for desktop designs, while 16px is often preferred for mobile layouts.
 
-   - Set the **Count** to 12 (a common standard for web design).
-   - Define the **Gutter** as 20px and the **Margin** as 24px.
+The margin, which is the space outside the grid, provides breathing room and maintains consistency in spacing. A 24px margin works well for most designs, but 32px can be used for additional whitespace when needed.
 
-3. **Add a Row Grid:**
+### 4. Add a Row Grid
+A row count of 6 provides horizontal divisions that structure content effectively. The gutter for rows is typically set at 16px, ensuring a well-organized design without making elements feel too tight or too loose.
 
-   - Set the **Count** to 6 and the **Gutter** to 16px.
-
-4. **Align Elements:**
-   - Use the grid to align buttons, text, and images consistently across the design.
+### 5. Align Elements
+Use the grid to align buttons, text, and images consistently across the design. Proper alignment enhances readability and visual harmony, making the layout more structured and user-friendly.
 
 ---
 

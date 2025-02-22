@@ -2,35 +2,37 @@
 
 ## Publishing the Prototype
 
-1. **Click the Share button** in the top-right corner of the Figma interface.
+1. Click the blue Share button in the top-right corner of the Figma interface.
 
-   ![Share Example](images/shareexample.png)
+2. Set the sharing permissions by choosing the appropriate option.
 
-2. **Set the sharing permissions** by choosing one of these options:
+## Sharing Options Explained:
 
-### Sharing Options Explained:
-
-1. **Anyone with the link:**
+### Anyone with the link:
 
 - Anyone who has the URL can access the prototype
 - No sign-in required
 - Best for: Public projects, client presentations, wide distribution
 - Privacy consideration: Less secure, cannot track who views the prototype
 
-2. **Specific individuals or teams:**
+### Specific individuals or teams:
 
 - Only invited people can access
 - Requires Figma account sign-in
 - Best for: Internal projects, confidential designs, work in progress
 - Privacy consideration: More secure, can track viewers and manage permissions
-- Additional controls:
-  - Can set view-only or edit permissions
-  - Can revoke access at any time
-  - Can disable download/copy options
 
-3. **Click Copy Link** to obtain the URL for sharing your prototype.
+### Additional controls:
 
-   ![Copy Link Example](images/copy_link.mp4)
+- Can set view-only or edit permissions
+- Can revoke access at any time
+- Can disable download/copy options
+
+## Copy and Share the Link:
+
+Click **Share** -> **Copy Link** to obtain the URL for sharing your prototype.
+
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/97f5mi?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 ## Presenting the Prototype
 
@@ -39,13 +41,15 @@
 
 ![Present Prototype Example](images/presenter_view.png)
 
-### Presentation Options Explained:
+## Presentation Options Explained:
 
-- Preview Button: Displays the prototype directly within the editor, allowing you to test functionality and make adjustments without switching tabs. Ideal for quick iterations during development.
+### Preview Button:
 
-- Present Button: Opens the prototype in a separate tab for full-screen viewing. Useful for sharing with others, testing on different devices, or showcasing the design in a presentation setting.
+Displays the prototype directly within the editor, allowing you to test functionality and make adjustments without switching tabs. Ideal for quick iterations during development.
 
-3. Navigate through frames and interactions to demonstrate the flow.
+### Present Button:
+
+Opens the prototype in a separate tab for full-screen viewing. Useful for sharing with others, testing on different devices, or showcasing the design in a presentation setting. Allows navigatation through frames and interactions, useful to demonstrate user flow.
 
 ## Adjust Prototype Settings
 

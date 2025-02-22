@@ -28,7 +28,7 @@ Each of these steps is part of a flow, showing how users navigate through your a
 Figma creates a flow starting point when you add your first connection between two frames. There are a few other ways to add a flow starting point to your prototype:
 
 - With the starting frame selected, click **+** in the **Flow starting point** section of the right sidebar.
-- Right-click on the frame, then click **Add starting point**.
+- **Right-click** on the frame, then click **Add starting point**.
 - Duplicate a frame with an existing starting point.
 
 When it's time to test your designs, you can share the entire prototype or copy the link to a flow starting point.
