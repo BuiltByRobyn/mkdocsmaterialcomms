@@ -64,8 +64,8 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
+    - icon: fontawesome/brands/github
+      link: https://github.com/Shabnam-Beiraghian
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/robyn-downie-480b0920b/
-copyright: Copyright &copy; 2025 Robyn Downie
+copyright: Copyright &copy; 2025 BuiltByRobyn & Shabnam-Beiraghian
