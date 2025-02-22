@@ -24,7 +24,7 @@ If you're experiencing issues with Figma's Layout Grid, use this guide to identi
 
 - **Toggle Grid Visibility**: Click the **Grid icon** or **Eye icon** in the right panel to show/hide the grid.
 
-![Toggle Grid Example](images/togglegrid.gif)
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/xalv62?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 - **Zoom Level**: Adjust the zoom level to see the grid clearly. You can adjust the zoom by **clicking on the zoom percent**.
 
@@ -70,11 +70,11 @@ Click on each connection and verify the interaction settings (e.g., _On Click,_ 
 
 If a frame is missing a connection, re-add it manually by **dragging the blue arrow to the target frame**.
 
-![Drag Connection Example](images/drag_arrow.gif)
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/ldatbn?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 - **Device Preview**: Test the prototype on different devices to ensure responsiveness.
 
-![Change Model Example](images/change_model.gif)
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/mzaej8?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 ---
 

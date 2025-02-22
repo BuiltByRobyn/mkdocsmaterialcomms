@@ -51,7 +51,7 @@ When creating a frame, you can either manually draw one using the Frame tool in 
 5. Adjust Size & Position
 6. Resize using the corner handles or input exact dimensions in the right sidebar.
 
-![Make Manual Frame Example](images/manual_frame.gif)
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/fucydp?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 ### Automatically Create a Frame
 
@@ -60,7 +60,7 @@ When creating a frame, you can either manually draw one using the Frame tool in 
 3. Click a device model, and Figma will automatically create a frame with the correct dimensions.
 4. Move and adjust the frame as needed.
 
-![Make Automatic Frame Example](images/frame_device.gif)
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/knhi2m?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 <div style="border: 2px solid rgb(255, 236, 28); padding: 10px; margin: 10px 0; border-radius: 4px;">
 ⚠️ <strong>Tip:</strong> Use Shift + Drag to maintain proportions when creating frames.
