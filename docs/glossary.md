@@ -1,5 +1,7 @@
 # Glossary
 
+---
+
 | Term        | Definition                                                                                |
 | ----------- | ----------------------------------------------------------------------------------------- |
 | Frame       | A container that holds and organizes design elements within your workspace                |

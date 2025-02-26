@@ -1,32 +1,40 @@
 # Presenting and Sharing Prototypes
 
+---
+
 ## Publishing the Prototype
 
 1. Click the blue Share button in the top-right corner of the Figma interface.
 
-2. Set the sharing permissions by choosing the appropriate option.
+2. Set the sharing permissions by choosing the appropriate visibility.
+
+---
 
 ## Sharing Options Explained:
 
 ### Anyone with the link:
 
-- Anyone who has the URL can access the prototype
-- No sign-in required
-- Best for: Public projects, client presentations, wide distribution
-- Privacy consideration: Less secure, cannot track who views the prototype
+- Anyone who has the URL can access the prototype.
+- No sign-in is required to view the design.
+- Best for: Public projects and client presentations.
+- Privacy consideration: Less secure, as owner cannot track who has viewed the prototype.
 
 ### Specific individuals or teams:
 
-- Only invited people can access
-- Requires Figma account sign-in
-- Best for: Internal projects, confidential designs, work in progress
-- Privacy consideration: More secure, can track viewers and manage permissions
+- Only people who have received an invitation can access the design.
+- Requires viewers to have a Figma account, and to have signed-in to their profile.
+- Best for: Confidential designs and work that is still in progress.
+- Privacy consideration: More secure, owner of the file can track viewers and manage permissions easily.
 
 ### Additional controls:
 
-- Can set view-only or edit permissions
-- Can revoke access at any time
-- Can disable download/copy options
+In addition to adjusting visibility settings for the file, the owner of the project can also:
+
+- Set specific view-only or edit permissions.
+- Revoke access for a user at any time.
+- Disable the option to download or copy the file.
+
+---
 
 ## Copy and Share the Link:
 
@@ -34,12 +42,16 @@ Click **Share** -> **Copy Link** to obtain the URL for sharing your prototype.
 
 <div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/97f5mi?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
+---
+
 ## Presenting the Prototype
 
 1. **Open the prototype link** in your browser by pasting the copied link.
-2. **Enter Presentation Mode** by clicking on the play icon, which will display your design in a distraction-free environment.
+2. **Enter Presentation Mode** by clicking on the play icon. This will display your design in full screen, without distractions.
 
 ![Present Prototype Example](images/presenter_view.png)
+
+---
 
 ## Presentation Options Explained:
 
@@ -49,7 +61,9 @@ Displays the prototype directly within the editor, allowing you to test function
 
 ### Present Button:
 
-Opens the prototype in a separate tab for full-screen viewing. Useful for sharing with others, testing on different devices, or showcasing the design in a presentation setting. Allows navigatation through frames and interactions, useful to demonstrate user flow.
+Opens the prototype in a separate tab for full-screen viewing. Useful for sharing with others, testing on different devices, or showcasing the design in a presentation setting. Allows navigatation through frames and interactions, which is useful to demonstrate user flow.
+
+---
 
 ## Adjust Prototype Settings
 

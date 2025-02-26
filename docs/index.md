@@ -1,12 +1,18 @@
 # Introductions
 
+---
+
 ## Welcome to Figma!
 
 Welcome to the wonderful world of Figma! This documentation will guide you through the process of creating a basic prototype and highlight best practices aligned with design industry standards. The goal of this guide is to provide clear instructions on how to utilize Figma effectively, focusing on methods to improve efficiency when working as part of a team
 
+---
+
 ## What is Figma?
 
 Figma is a powerful, web-based design tool that enables users to create user interfaces, wireframes, and prototypes collaboratively. It provides a seamless experience for teams working on UI/UX design, offering features such as real-time collaboration, version control, and an intuitive interface for designing and prototyping.
+
+---
 
 ## Intended Users
 
@@ -14,6 +20,8 @@ This documentation is designed for:
 
 - Beginner web developers
 - Beginner graphic designers
+
+---
 
 ## Prerequisite Knowledge
 
@@ -24,6 +32,8 @@ Users of this documentation are expected to have basic computer skills, includin
 - Write and edit text files
 - Upload images and media
 
+---
+
 ## Software Requirements
 
 Before using this guide, ensure that you:
@@ -33,6 +43,8 @@ Before using this guide, ensure that you:
 2. Have access to a Windows or macOS computer.
 3. Have access to a reliable internet connection.
 
+---
+
 ## Typographical Conventions
 
 To maintain clarity and consistency throughout this guide, the following conventions will be used:
@@ -41,6 +53,8 @@ To maintain clarity and consistency throughout this guide, the following convent
 - **Bold** highlights call-to-action elements, such as buttons to click or commands to type.
 - Arrows -> show the exact steps to follow in menus. When you see an arrow, it means "click this first, then this next."
   For example, if you see **File** -> **New**, it means you should first click File, then select New from the menu.
+
+---
 
 ## Notes and Warning Messages
 

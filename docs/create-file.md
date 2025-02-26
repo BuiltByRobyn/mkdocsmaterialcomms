@@ -6,6 +6,8 @@
 
 Read more about verifying your student status **[here.](https://www.figma.com/color-contrast-checker/)**
 
+---
+
 ## Create a File
 
 Once you have opened your account with Figma, you can select **Create New** in the top right of the homepage.
@@ -14,7 +16,7 @@ Once you have opened your account with Figma, you can select **Create New** in t
 
 You will then be asked to select from one of three options:
 
-### 1. Design File
+### 1. **Design File**
 
 - Purpose: A traditional Figma design file used for UI/UX design, wireframing, and prototyping.
 - Best For: Creating user interfaces, websites, apps, or any visual design work.
@@ -37,6 +39,8 @@ You will then be asked to select from one of three options:
 Allows you to import existing files (like Sketch files, images, or PDFs) into Figma.
 
 This documentation will primarily cover the Design File option for creating UI/UX flows and interactive prototypes.
+
+---
 
 ## Creating a frame
 
@@ -67,6 +71,8 @@ When creating a frame, you can either manually draw one using the Frame tool in 
 </div>
 
 Using grids in Figma helps maintain consistency and alignment in your designs. Here's how to implement and use grids effectively:
+
+---
 
 ## Adding a Grid
 

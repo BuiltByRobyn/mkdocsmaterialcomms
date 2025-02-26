@@ -1,5 +1,7 @@
 # What is a Protoype?
 
+---
+
 ## Why use Protoypes?
 
 Figma’s prototyping features allow you to create interactive flows that explore how a user may interact with your designs.
@@ -22,6 +24,8 @@ For example:
 📱 Home Screen → Tap “Shop Now” → 🛍️ Products Page → Select an item → 🛒 Cart Page
 
 Each of these steps is part of a flow, showing how users navigate through your app or website. It helps designers test ideas before writing any code, making sure everything works smoothly!
+
+---
 
 ## Flow Starting Points
 
@@ -72,6 +76,8 @@ To do so:
 
 ## ![Grid Example](<images/Create%20interactions%20and%20animations%20(3)%201%20(1).png>)
 
+---
+
 ## Adjust Prototype Settings
 
 1. Select a **Device and Model**.
@@ -80,6 +86,8 @@ To do so:
 4. Set the prototype's **Starting Frame**.
 
 ## ![Grid Example](<images/Prototype%20tab%20of%20right%20sidebar%20with%20device,%20preview,%20background,%20and%20flow%20settings%20(1).png>)
+
+---
 
 ## Publishing the Prototype
 
