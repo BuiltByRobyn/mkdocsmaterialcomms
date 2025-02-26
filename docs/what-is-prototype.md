@@ -18,10 +18,10 @@ Prototypes are a fantastic way to:
 
 ## What is a User Flow?
 
-With prototyping in Figma, you can create multiple user flows for your prototype in one page to preview a user's full journey and experience through your designs. Imagine you're designing an app or a website, and you want to show how a user moves from one screen to another. A Figma flow creates a map of the users journey, and demonstrates how the different screens (or frames) are connected. When you click a button, a link, or swipe, it takes you to the next step in the journey.
+With prototyping in Figma, you can create multiple user flows for your prototype in one page. A user flow creates an example of your users journey, and demonstrates how the different screens in your project are connected. When you click a button, Figma takes you to the next step in the process, just like your user would see in your final product. This allows you to preview a user's full experience while using your design .
 
 For example:
-📱 Home Screen → Tap “Shop Now” → 🛍️ Products Page → Select an item → 🛒 Cart Page
+Home Screen -> Tap **Shop Now** -> Products Page -> Select an item -> Cart Page
 
 Each of these steps is part of a flow, showing how users navigate through your app or website. It helps designers test ideas before writing any code, making sure everything works smoothly!
 
@@ -38,12 +38,12 @@ Figma creates a flow starting point when you add your first connection between t
 When it's time to test your designs, you can share the entire prototype or copy the link to a flow starting point.
 
 **Note:**
-In Figma, a top-level frame is like the main page of your app or website. This main page can be part of different flows, but it can only have one starting point. However, inside this main page, you can have buttons or links that lead to different experiences.
+In Figma, a top-level frame is the main page of your app or website. This main page can be part of different flows, but it can only have one starting point. However, inside this main page, you can have buttons or links that lead to different experiences.
 
 For example:
-A Log In and Sign Up button can both be inside the same starting screen. Clicking Log In will take the user to the start of one flow, while clicking Sign Up will take them to the start of a different flow. Even though they start in the same place, they lead to different journeys!
+A Log In and Sign Up button can both be inside the same starting screen. Clicking Log In will take the user to the start of one flow, while clicking Sign Up will take them to the start of a different journey. Even though they start in the same place, they lead to different end points!
 
-Frames nested within a top-level starting frame can have connections that navigate the user around multiple flows.
+Frames nested within a top-level starting page can have connections that navigate the user towards multiple flows.
 
 ---
 
