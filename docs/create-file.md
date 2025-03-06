@@ -4,7 +4,7 @@
 ⚠️ <strong>Tip:</strong> Students can access Figma's professional plan for free!
 </div>
 
-Read more about verifying your student status **[here.](https://www.figma.com/color-contrast-checker/)**
+Read more about Figma education plan **[here.](https://www.figma.com/education/)**
 
 ---
 
@@ -76,18 +76,18 @@ Using grids in Figma helps maintain consistency and alignment in your designs. H
 
 ## Adding a Grid
 
-1. **Select the Frame:**
+**Select the Frame:**
 
-   - Click on the frame or canvas where you want to add a grid.
+   1. Click on the frame or canvas where you want to add a grid.
 
-2. **Enable Grid:**
+**Enable Grid:**
 
-   - Go to the **Design** tab in the right sidebar.
-   - Under the **Layout Grid** section, click the **+** button to add a grid.
+   2. Go to the **Design** tab in the right sidebar.
+   3. Under the **Layout Grid** section, click the **+** button to add a grid.
 
-3. **Customize the Grid:**
-   - Choose between **Grid**, **Columns**, or **Rows**.
-   - Adjust the grid size, color, and opacity to suit your design needs.
+**Customize the Grid:**
+   4. Choose between **Grid**, **Columns**, or **Rows**.
+   5. Adjust the grid size, color, and opacity to suit your design needs.
 
 ![Grid Example](images/grid%20layout.png)
 

@@ -6,6 +6,8 @@
 | ----------- | ----------------------------------------------------------------------------------------- |
 | Frame       | A container that holds and organizes design elements within your workspace                |
 | Grid        | A system of horizontal and vertical lines used to align design elements                   |
+| Interface   | An interface has a toolbar, and sidebars to create, adjust, and access design elements    |          
+| Wireframes  | A basic, low-fidelity visual representation of a website ot app's layout                  |  
 | Prototype   | An interactive demo that simulates how a design will work when built                      |
 | Component   | A reusable design element that can be shared across multiple frames                       |
 | Constraints | Rules that control how elements respond when their parent frame is resized                |
