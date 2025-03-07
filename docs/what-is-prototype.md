@@ -1,4 +1,6 @@
-# What is a Protoype?
+# What is a Prototype?
+
+Prototypes are interactive mockups that demonstrate how your product will look when it is built. They serve as a bridge between the design and development phases, and allow designers to gather feedback before investing resources in production. This page will discuss how to create, connect and animate your prototypes in Figma.
 
 ---
 
@@ -37,8 +39,12 @@ Figma creates a flow starting point when you add your first connection between t
 
 When it's time to test your designs, you can share the entire prototype or copy the link to a flow starting point.
 
-**Note:**
-In Figma, a top-level frame is the main page of your app or website. This main page can be part of different flows, but it can only have one starting point. However, inside this main page, you can have buttons or links that lead to different experiences.
+<div style="border: 2px solid rgb(255, 236, 28); padding: 10px; margin: 10px 0; border-radius: 4px;">
+<strong>⚠️ Note: </strong>
+In Figma, a top-level frame is the main page of your app or website.
+</div>
+
+This main page can be part of different flows, but it can only have one starting point. However, inside this main page, you can have buttons or links that lead to different experiences.
 
 For example:
 A Log In and Sign Up button can both be inside the same starting screen. Clicking Log In will take the user to the start of one flow, while clicking Sign Up will take them to the start of a different journey. Even though they start in the same place, they lead to different end points!
@@ -49,9 +55,9 @@ Frames nested within a top-level starting page can have connections that navigat
 
 ## Create Connections
 
-1. Select the hotspot for the connection.
-2. Click **+** to create the connection.
-3. Drag it to the destination.
+1. **Select** the button that you would like to react.
+2. **Click +** to create the connection.
+3. **Drag** it to the destination.
 4. If there are no existing connections, Figma will make the first frame a starting point.
 
 <div style="border: 2px solid rgb(255, 236, 28); padding: 10px; margin: 10px 0; border-radius: 4px;">
@@ -59,8 +65,8 @@ Frames nested within a top-level starting page can have connections that navigat
 
 To do so:
 
-- Select multiple starting hotspots on your canvas.
-- Click and drag the **+** icon to the destination.
+- **Select** multiple starting points on your canvas.
+- **Click and drag** the **+** icon to the destination.
 
 ![Grid Example](<images/Anatomy%20of%20a%20connection%20between%20two%20frames%20(2).png>)
 
@@ -68,7 +74,7 @@ To do so:
 
 ## Create Interactions and Animations
 
-1. Open the **Prototype** tab in the right sidebar.
+1. Open the Prototype tab in the right sidebar.
 2. Add interactions.
 3. Set interaction details.
 4. Apply an animation.
@@ -80,27 +86,15 @@ To do so:
 
 ## Adjust Prototype Settings
 
-1. Select a **Device and Model**.
+1. Select a Device and Model.
 2. Preview your prototype.
-3. Select **Background color**.
-4. Set the prototype's **Starting Frame**.
+3. Select Background color.
+4. Set the prototype's Starting Frame.
 
 ## ![Grid Example](<images/Prototype%20tab%20of%20right%20sidebar%20with%20device,%20preview,%20background,%20and%20flow%20settings%20(1).png>)
 
 ---
 
-## Publishing the Prototype
+## Next Steps
 
-1. **Click the Share button** in the top-right corner of the Figma interface.
-2. **Set the sharing permissions** to either **Anyone with the link** or specify particular individuals or teams.
-3. **Click Copy Link** to obtain the URL for sharing your prototype.
-
----
-
-## Presenting the Prototype
-
-1. **Open the prototype link** in your browser by pasting the copied link.
-2. **Enter Presentation Mode** by clicking on the full-screen icon, which will display your design in a distraction-free environment.
-3. Navigate through frames and interactions to demonstrate the flow.
-
-Read more about presenting protoypes in **[presenting protoypes.](presenting-prototypes.md)**
+Having created your new prototype, you can now read more about presenting it to clients or colleagues. Visit **[presenting prototypes](presenting-prototypes.md)** for more information on showcasing your design!

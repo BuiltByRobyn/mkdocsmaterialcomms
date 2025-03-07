@@ -1,10 +1,12 @@
 # Presenting and Sharing Prototypes
 
+You've brought your idea to life, now what? This page will discuss methods of sharing your prototype, while still retaining control over who can see your design.
+
 ---
 
 ## Publishing the Prototype
 
-1. Click the blue Share button in the top-right corner of the Figma interface.
+1. **Click** the blue Share button in the top-right corner of the Figma interface.
 
 2. Set the sharing permissions by choosing the appropriate visibility.
 
@@ -12,27 +14,25 @@
 
 ## Sharing Options Explained:
 
-### Anyone with the link:
+When you **select Share** , you will be asked to choose from one of two options:
+
+### 1. Anyone with the link:
 
 - Anyone who has the URL can access the prototype.
 - No sign-in is required to view the design.
-- Best for: Public projects and client presentations.
-- Privacy consideration: Less secure, as owner cannot track who has viewed the prototype.
+- This is best for public projects and client presentations.
+- Privacy considerations should be made when using this setting, as owner cannot track who has viewed the prototype.
 
-### Specific individuals or teams:
+### 2. Specific individuals or teams:
 
 - Only people who have received an invitation can access the design.
 - Requires viewers to have a Figma account, and to have signed-in to their profile.
-- Best for: Confidential designs and work that is still in progress.
-- Privacy consideration: More secure, owner of the file can track viewers and manage permissions easily.
-
-### Additional controls:
-
-In addition to adjusting visibility settings for the file, the owner of the project can also:
-
-- Set specific view-only or edit permissions.
-- Revoke access for a user at any time.
-- Disable the option to download or copy the file.
+- This is a good option for confidential designs and work that is still in progress.
+- The owner of the file will be able to track viewers and manage permissions easily. They can:
+    <!-- prettier-ignore -->
+    1. set specific view-only or edit permissions.
+    2. revoke access for a user at any time.
+    3. disable the option to download or copy the file.
 
 ---
 
@@ -77,6 +77,14 @@ Opens the prototype in a separate tab for full-screen viewing. Useful for sharin
 </div>
 
 ![Grid Example](<images/Prototype%20tab%20of%20right%20sidebar%20with%20device,%20preview,%20background,%20and%20flow%20settings%20(1).png>)
+
+---
+
+## Something wrong?
+
+If your protoype isn't looking quite right, why not visit our **[troubleshooting page](troubleshooting.md)** to view resolutions to most common issues!
+
+---
 
 <div style="border: 2px solid #00cc00; padding: 10px; margin: 10px 0; border-radius: 4px;">
 ✅ And that's it! You should now have a solid understanding of how to prepare Figma files, as well as how to create frames and set up grids. You're ready to start designing with confidence!

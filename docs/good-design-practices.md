@@ -1,4 +1,6 @@
-# Good Design Practice
+# Good Design Practices
+
+Aside from the technical skills needed to create a Figma design, it is also important to understand industry standard practices. These methods will help to ensure that your design is well laid out, and adheres to UI and UX expectations. This page will discuss common practices, and will provide advice on creating beautiful prototypes that showcase your idea.
 
 ---
 
@@ -6,7 +8,9 @@
 
 Figma supports three main types of layout grids:
 
-### Grid
+---
+
+### 1. Grid
 
 A uniform, square grid which has equally spaced horizontal and vertical lines.
 
@@ -20,7 +24,9 @@ A uniform, square grid which has equally spaced horizontal and vertical lines.
 
 ![Grid Example](images/grid_example.png)
 
-### Columns
+---
+
+### 2. Columns
 
 A grid containing only verticle lines, with adjustable column widths and gutters.
 
@@ -34,7 +40,9 @@ A grid containing only verticle lines, with adjustable column widths and gutters
 
 ![Columns Example](images/column_example.png)
 
-### Rows
+---
+
+### 3. Rows
 
 A horizontal grid system, with customizable row heights and gutters.
 
@@ -90,5 +98,9 @@ Use the grid to align buttons, text, and images consistently across the design. 
 - Ensure sufficient color contrast for readability by using tools like **[Figma’s contrast checker](https://www.figma.com/color-contrast-checker/)**.
 - Use descriptive naming for layers and frames to improve accessibility.
 - Support keyboard navigation and consider screen reader compatibility.
+
+---
+
+## Next Steps
 
 You now know the theory behind a great design, so lets learn about **[Figma Prototypes!](what-is-prototype.md)**

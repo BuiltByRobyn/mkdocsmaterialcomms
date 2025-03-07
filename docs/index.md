@@ -1,8 +1,4 @@
-# Introductions
-
----
-
-## Welcome to Figma!
+# Introduction
 
 Welcome to the wonderful world of Figma! This documentation will guide you through the process of creating a basic prototype and highlight best practices aligned with design industry standards. The goal of this guide is to provide clear instructions on how to utilize Figma effectively, focusing on methods to improve efficiency when working as part of a team
 

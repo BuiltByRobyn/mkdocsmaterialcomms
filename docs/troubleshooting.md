@@ -90,4 +90,4 @@ If a frame is missing a connection, re-add it manually by **dragging the blue ar
 
 ## Additional Support
 
-If you continue to experience issues, consider checking Figma’s official documentation, reaching out to community forums, or experimenting with different settings to refine your design process. With the right approach, you can create a well-structured, responsive, and collaborative design experience.
+If you continue to experience issues, consider checking Figma’s official documentation or experimenting with different settings to refine your design process. Figma also has excellent customer support available for those who need further assistance. You can visit the Community Forum and reach out with questions [here](https://help.figma.com/hc/en-us/articles/360041057214-Get-help-with-Figma#:~:text=The%20best%20way%20to%20contact,browser%2C%20or%20the%20Figma%20Community.&text=At%20the%20bottom%20of%20the,topic%20in%20the%20field%20provided).
