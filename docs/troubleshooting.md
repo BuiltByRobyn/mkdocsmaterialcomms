@@ -24,7 +24,7 @@ If you're experiencing issues with Figma's Layout Grid, use this guide to identi
 
 - **Toggle Grid Visibility**: Click the **Grid icon** or **Eye icon** in the right panel to show/hide the grid.
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/xalv62?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/ijn3bx?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 - **Zoom Level**: Adjust the zoom level to see the grid clearly. You can adjust the zoom by **clicking on the zoom percent**.
 
@@ -66,15 +66,15 @@ If interactions are unresponsive or not functioning as expected, check the follo
 
 Click on each connection and verify the interaction settings (e.g., _On Click,_ _While Hovering,_ etc.).
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/u26e4g?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/9pvq8w?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 If a frame is missing a connection, re-add it manually by **dragging the blue arrow to the target frame**.
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/2jqi9d?autoplay=1&muted=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/vm4odi?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 - **Device Preview**: Test the prototype on different devices to ensure responsiveness.
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/r9u6tw?autoplay=1&muted=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.098%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/6u4k9a?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 ---
 
